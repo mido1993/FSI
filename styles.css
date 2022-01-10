@@ -1,0 +1,36 @@
+h1{
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+  background-image:url("file:///C:/Users/mhaij/Desktop/SD/ba.jpeg") ;
+}
+h2{
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+  background-image:url("file:///C:/Users/mhaij/Desktop/SD/ba.jpeg") ;
+}
+p{
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+  background-image:url("file:///C:/Users/mhaij/Desktop/SD/ba.jpeg") ;
+}
+h3{
+  background-color: beige;
+  font-style: italic;
+  font-weight: 200;
+}
+ul
+{
+  background-color: beige;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 10%;
+}
+body{
+  margin: 0;
+  height: 100vh;
+  cursor: cell;
+}
